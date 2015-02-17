@@ -1,4 +1,4 @@
-ghfs
+ghfs [![godoc](https://godoc.org/github.com/benbjohnson/ghfs?status.png)](https://godoc.org/github.com/benbjohnson/ghfs) ![Version](http://img.shields.io/badge/alpha-red.png)
 ====
 
 The GitHub Filesystem (GHFS) is a user space filesystem that overlays the
